@@ -3,7 +3,7 @@ layout: post
 title: "Bugku-杂项图片"
 ---
 
-# Bugku CTF Misc - 这是一张单纯的图片
+# Bugku CTF Misc
 
 ## 题目描述
 题目只给了一张图片，提示是 key{}。
