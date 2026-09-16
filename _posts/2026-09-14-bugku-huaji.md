@@ -1,4 +1,4 @@
----
+#---
 layout: post
 title: "Bugku CTF Web基础 - 滑稽"
 ---
