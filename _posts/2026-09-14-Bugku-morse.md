@@ -1,4 +1,4 @@
----
+#---
 layout: post
 title: "Bugku CTF Crypto - 摩斯密码"
 ---
