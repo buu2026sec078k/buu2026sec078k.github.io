@@ -1,4 +1,4 @@
-#---
+---
 layout: "Bugku-alert write up"
 date: 2026-09-10
 ---
