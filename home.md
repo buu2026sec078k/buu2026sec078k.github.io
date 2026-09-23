@@ -34,11 +34,15 @@ code,pre {
 </style>
 
 # CTF Writeup 存档
-这里记录 Bugku 练习与学习笔记
+记录 Bugku CTF 练习与学习笔记
 
 ## 文章列表
-- 2026‑09‑10 · [bugku‑alert](/2026/09/10/bugku‑alert.html)
+- 2026‑09‑09 · [bugku‑计算器](/2026/09/09/bugku-计算器.html)
+- 2026‑09‑09 · [first‑post](/2026/09/09/first-post.html)
+- 2026‑09‑10 · [bugku‑alert](/2026/09/10/bugku-alert.html)
+- 2026‑09‑10 · [bugku‑get](/2026/09/10/bugku-get.html)
+- 2026‑09‑11 · [must‑stop‑him](/2026/09/11/must-stop-him.html)
 - 2026‑09‑11 · [post](/2026/09/11/post.html)
-- 2026‑09‑11 · [must‑stop‑him](/2026/09/11/must‑stop‑him.html)
-- 2026‑09‑14 · [bugku‑morse](/2026/09/14/bugku‑morse.html)
-- 2026‑09‑14 · [bugku‑huaji](/2026/09/14/bugku‑huaji.html)
+- 2026‑09‑14 · [bugku‑huaji](/2026/09/14/bugku-huaji.html)
+- 2026‑09‑14 · [bugku‑morse](/2026/09/14/bugku-morse.html)
+- 2026‑09‑15 · [bugku‑misc‑n](/2026/09/15/bugku-misc-n.html)
