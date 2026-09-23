@@ -1,6 +1,6 @@
 ---
-layout:
-title:xiaoyang
+layout: post
+title: xiaoyang
 ---
 
 ##Flag
