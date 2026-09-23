@@ -19,6 +19,7 @@ permalink: /
     <li><a href="/2026/09/14/bugku-huaji.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑14 · bugku‑huaji</a></li>
     <li><a href="/2026/09/14/bugku-morse.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑14 · bugku‑morse</a></li>
     <li><a href="/2026/09/15/bugku-misc-n.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑15 · bugku‑misc‑n</a></li>
+ `<li><a href="/2026/09/23/bugku-pigpen.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑23 · bugku‑pigpen（把猪困在猪圈里）</a> </li>`
   </ul>
 </div>
 
