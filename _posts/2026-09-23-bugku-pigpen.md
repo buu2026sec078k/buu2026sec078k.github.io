@@ -21,11 +21,3 @@ title: Bugku CTF Crypto - 把猪困在猪圈里
 > 踩坑记录：初次运行代码未保存脚本，导致程序无输出。
 > 总结：Python 运行前必须保存文件，否则执行的是旧代码。
 
-```python
-import base64
-
-with open("cipher.txt","r") as f:
-    data = f.read().replace("\n","").replace(" ","")
-img = base64.b64decode(data)
-with open("output.jpg","wb") as f2:
-    f2.write(img)
