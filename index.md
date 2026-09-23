@@ -22,7 +22,7 @@ permalink: /
     `<li><a href="/2026/09/23/bugku-pigpen.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑23 · bugku‑pigpen（把猪困在猪圈里）</a> </li>`
     <li><a href="/2026/09/23/bugku-fuqiang.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑23 · bugku‑富强民主</a></li>
     <li><a href="/2026/09/23/bugku-xiaoyang.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑23 · bugku‑聪明的小羊</a></li>
-    <li><a href="/2026/09/23/bugku-miwen.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑19 · bugku‑散乱的密文</a></li>
+    <li><a href="/2026/09/19/bugku-miwen.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑19 · bugku‑散乱的密文</a></li>
   </ul>
 </div>
 
