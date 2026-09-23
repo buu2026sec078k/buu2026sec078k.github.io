@@ -24,6 +24,7 @@ permalink: /
     <li><a href="/2026/09/23/bugku-xiaoyang.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑23 · bugku‑聪明的小羊</a></li>
     <li><a href="/2026/09/19/bugku-miwen.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑19 · bugku‑散乱的密文</a></li>
     <li><a href="/2026/09/23/bugku-harry.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑23 · bugku‑harry</a></li>
+    <li><a href="/2026/09/23/bugku-notmd5.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑23 · bugku‑这不是md5</a></li>
   </ul>
 </div>
 
