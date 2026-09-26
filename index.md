@@ -38,6 +38,7 @@ permalink: /
     <li><a href="/2026/09/25/bugku-base-family.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑贝斯家族</a></li>
     <li><a href="/2026/09/25/bugku-telnet.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑telnet</a></li>
     <li><a href="/2026/09/25/bugku-symbol.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑.!?</a></li>
+    <li><a href="/2026/09/25/bugku-first-class.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑头等舱</a></li>
   </ul>
 </div>
 
