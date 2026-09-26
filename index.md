@@ -32,7 +32,8 @@ permalink: /
     <li><a href="/2026/09/25/bugku-maodun.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑矛盾</a></li>
     <li><a href="/2026/09/25/bugku-backup.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑写完备份是个好习惯</a></li>
      <li><a href="/2026/09/25/bugku-wrong-char.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑抄错的字符</a></li>
- <li><a href="/2026/09/25/bugku-steg.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑隐写</a></li>
+     <li><a href="/2026/09/25/bugku-steg.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑隐写</a></li>
+     <li><a href="/2026/09/25/bugku-not-real.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑眼见非实</a></li>
   </ul>
 </div>
 
