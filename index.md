@@ -28,6 +28,7 @@ permalink: /
     <li><a href="/2026/09/24/bugku-ok.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑24 · bugku‑ok</a></li>
     <li><a href="/2026/09/24/bugku-think-md5.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑24 · bugku‑你以为是md5吗</a></li>
      <li><a href="/2026/09/25/bugku-zodiac.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑黄道十二宫</a></li>
+    <li><a href="/2026/09/25/bugku-source.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑source</a></li>
  </ul>
 </div>
 
