@@ -30,6 +30,7 @@ permalink: /
      <li><a href="/2026/09/25/bugku-zodiac.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑黄道十二宫</a></li>
     <li><a href="/2026/09/25/bugku-source.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑source</a></li>
     <li><a href="/2026/09/25/bugku-maodun.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑矛盾</a></li>
+    <li><a href="/2026/09/25/bugku-backup.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑写完备份是个好习惯</a></li>
  </ul>
 </div>
 
