@@ -42,6 +42,7 @@ permalink: /
     <li><a href="/2026/09/25/bugku-linux.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑linux</a></li>
     <li><a href="/2026/09/27/ctfhub-ctf-intro.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑27 · ctfhub‑ctf简介</a></li>
     <li><a href="/2026/09/27/ctfhub-competition-mode.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑27 · ctfhub‑竞赛模式</a></li>
+    <li><a href="/2026/09/27/ctfhub-question-type.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑27 · ctfhub‑题目类型</a></li>
   </ul>
 </div>
 
