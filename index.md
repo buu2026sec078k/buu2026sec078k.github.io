@@ -40,6 +40,7 @@ permalink: /
     <li><a href="/2026/09/25/bugku-symbol.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑.!?</a></li>
     <li><a href="/2026/09/25/bugku-first-class.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑头等舱</a></li>
     <li><a href="/2026/09/25/bugku-linux.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑25 · bugku‑linux</a></li>
+    <li><a href="/2026/09/27/ctfhub-ctf-intro.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑27 · ctfhub‑ctf简介</a></li>
   </ul>
 </div>
 
