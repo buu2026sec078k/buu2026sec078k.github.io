@@ -47,6 +47,7 @@ permalink: /
     <li><a href="/2026/09/28/ctfhub-checkin.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑28 · ctfhub‑签到题</a></li>
     <li><a href="/2026/09/28/ctfhub-response-source.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑28 · ctfhub‑响应包源代码</a></li>
     <li><a href="/2026/09/28/ctfhub-request-method.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑28 · ctfhub‑请求方式</a></li>
+    <li><a href="/2026/09/28/ctfhub-302-redirect.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑28 · ctfhub‑302跳转</a></li>
   </ul>
 </div>
 
