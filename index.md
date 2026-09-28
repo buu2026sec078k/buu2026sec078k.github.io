@@ -44,6 +44,7 @@ permalink: /
     <li><a href="/2026/09/27/ctfhub-competition-mode.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑27 · ctfhub‑竞赛模式</a></li>
     <li><a href="/2026/09/27/ctfhub-question-type.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑27 · ctfhub‑题目类型</a></li>
     <li><a href="/2026/09/28/ctfhub-match-mode.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑28 · ctfhub‑比赛形式</a></li>
+    <li><a href="/2026/09/28/ctfhub-checkin.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑28 · ctfhub‑签到题</a></li>
   </ul>
 </div>
 
