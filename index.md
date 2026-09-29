@@ -51,6 +51,7 @@ permalink: /
     <li><a href="/2026/09/28/ctfhub-cookie.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑28 · ctfhub‑Cookie</a></li>
     <li><a href="/2026/09/28/ctfhub-phpinfo.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑28 · ctfhub‑PHPINFO</a></li>
     <li><a href="/2026/09/29/ctfhub-directory-traversal.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑29 · ctfhub‑目录遍历</a></li>
+    <li><a href="/2026/09/29/ctfhub-source-code.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑29 · ctfhub‑网站源码</a></li>
   </ul>
 </div>
 
