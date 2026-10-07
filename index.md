@@ -53,6 +53,7 @@ permalink: /
     <li><a href="/2026/09/29/ctfhub-directory-traversal.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑29 · ctfhub‑目录遍历</a></li>
     <li><a href="/2026/09/29/ctfhub-source-code.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑29 · ctfhub‑网站源码</a></li>
     <li><a href="/2026/09/29/ctfhub-bak-file.html" style="color:#61b4ff; text-decoration:none;">2026‑09‑29 · ctfhub‑bak文件</a></li>
+    <li><a href="/2026/10/07/ctfhub-vim-cache.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑07 · ctfhub‑vim缓存</a></li>
   </ul>
 </div>
 
