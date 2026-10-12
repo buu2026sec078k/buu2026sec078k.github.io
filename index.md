@@ -56,6 +56,7 @@ permalink: /
     <li><a href="/2026/10/07/ctfhub-vim-cache.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑07 · ctfhub‑vim缓存</a></li>
     <li><a href="/2026/10/07/ctfhub-ds-store.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑07 · ctfhub-.DS_Store</a></li>
     <li><a href="/2026/10/13/ctfhub-weak-password.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑13 · ctfhub-弱口令</a></li>
+    <li><a href="/2026/10/13/ctfhub-sql-int-inject.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑13 · ctfhub-整数型注入</a></li>
   </ul>
 </div>
 
