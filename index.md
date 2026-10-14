@@ -58,6 +58,7 @@ permalink: /
     <li><a href="/2026/10/13/ctfhub-weak-password.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑13 · ctfhub-弱口令</a></li>
     <li><a href="/2026/10/13/ctfhub-sql-int-inject.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑13 · ctfhub-整数型注入</a></li>
     <li><a href="/2026/10/14/ctfhub-sql-char-inject.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑14 · ctfhub‑字符型注入</a></li>
+    <li><a href="/2026/10/14/ctfhub-error-based-sql-inject.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑14 · ctfhub‑报错注入</a></li>
   </ul>
 </div>
 
