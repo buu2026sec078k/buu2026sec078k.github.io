@@ -60,6 +60,7 @@ permalink: /
     <li><a href="/2026/10/14/ctfhub-sql-char-inject.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑14 · ctfhub‑字符型注入</a></li>
     <li><a href="/2026/10/14/ctfhub-error-based-sql-inject.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑14 · ctfhub‑报错注入</a></li>
     <li><a href="/2026/10/14/ctfhub-stored-xss.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑14 · ctfhub‑存储型XSS</a></li>
+    <li><a href="/2026/10/14/ctfhub-reflected-xss.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑14 · ctfhub‑反射型XSS</a></li>
   </ul>
 </div>
 
