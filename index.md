@@ -64,6 +64,7 @@ permalink: /
     <li><a href="/2026/10/15/ctfhub-dom-xss.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑15 · ctfhub‑DOM反射XSS</a></li>
     <li><a href="/2026/10/19/ctfhub-cookie-sql-injection.html" style="color:#61b4ff; text-decoration:none;">2026-10-19 · ctfhub-Cookie注入</a></li>
     <li><a href="/2026/10/21/ctfhub-no-auth-command-exec.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub‑无验证</a></li>
+    <li><a href="/2026/10/21/ctfhub-basic-auth.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub‑基础认证</a></li>
   </ul>
 </div>
 
