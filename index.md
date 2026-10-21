@@ -62,6 +62,7 @@ permalink: /
     <li><a href="/2026/10/14/ctfhub-stored-xss.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑14 · ctfhub‑存储型XSS</a></li>
     <li><a href="/2026/10/14/ctfhub-reflected-xss.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑14 · ctfhub‑反射型XSS</a></li>
     <li><a href="/2026/10/15/ctfhub-dom-xss.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑15 · ctfhub‑DOM反射XSS</a></li>
+    <li><a href="/2026/10/19/ctfhub-cookie-sql-injection.html" style="color:#61b4ff; text-decoration:none;">2026-10-19 · ctfhub-Cookie注入</a></li>
   </ul>
 </div>
 
