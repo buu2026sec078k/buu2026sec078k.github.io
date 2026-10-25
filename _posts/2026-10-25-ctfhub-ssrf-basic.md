@@ -1,4 +1,4 @@
-# CTFHub - SSRF Writeup
+# CTFHub - SSRF(基础) Writeup
 **题目来源**：CTFHub
 **题型**：Web
 **难度**：简单
