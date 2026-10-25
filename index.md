@@ -62,13 +62,21 @@ permalink: /
     <li><a href="/2026/10/14/ctfhub-stored-xss.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑14 · ctfhub‑存储型XSS</a></li>
     <li><a href="/2026/10/14/ctfhub-reflected-xss.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑14 · ctfhub‑反射型XSS</a></li>
     <li><a href="/2026/10/15/ctfhub-dom-xss.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑15 · ctfhub‑DOM反射XSS</a></li>
-    <li><a href="/2026/10/19/ctfhub-cookie-sql-injection.html" style="color:#61b4ff; text-decoration:none;">2026-10-19 · ctfhub-Cookie注入</a></li>
-    <li><a href="/2026/10/21/ctfhub-no-auth-command-exec.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub‑无验证</a></li>
     <li><a href="/2026/10/21/ctfhub-basic-auth.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub‑基础认证</a></li>
     <li><a href="/2026/10/21/ctfhub-rot13.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub‑回转十三位</a></li>
     <li><a href="/2026/10/25/ctfhub-wenjian-baohan.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑25 · ctfhub-文件包含</a></li>
     <li><a href="/2026/10/25/ctfhub-command-inject.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑25 · ctfhub-命令注入（无过滤）</a></li>
     <li><a href="/2026/10/25/ctfhub-ssrf-basic.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑25 · ctfhub-SSRF(基础)</a></li>
+    <li><a href="/2026/10/23/ctfhub-upload-double-write.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑23 · ctfhub-双写后缀</a></li>
+    <li><a href="/2026/10/23/ctfhub-upload-00cut.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑23 · ctfhub-00截断</a></li>
+    <li><a href="/2026/10/23/ctfhub-upload-htaccess.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑23 · ctfhub-.htaccess</a></li>
+    <li><a href="/2026/10/22/ctfhub-upload-filehead.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑22 · ctfhub-文件头检查</a></li>
+    <li><a href="/2026/10/22/ctfhub-upload-front-check.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑22 · ctfhub-前端验证</a></li>
+    <li><a href="/2026/10/22/ctfhub-upload-mime.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑22 · ctfhub-MIME绕过</a></li>
+    <li><a href="/2026/10/21/ctfhub-rot13.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub-回转十三位</a></li>
+    <li><a href="/2026/10/21/ctfhub-basic-auth.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub-基础认证</a></li>
+    <li><a href="/2026/10/21/ctfhub-cmd-no-check.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub-无验证命令执行</a></li>
+    <li><a href="/2026/10/19/ctfhub-cookie-sql-inject.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑19 · ctfhub-Cookie注入</a></li>
   </ul>
 </div>
 
