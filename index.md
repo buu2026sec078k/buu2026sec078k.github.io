@@ -66,6 +66,12 @@ permalink: /
     <li><a href="/2026/10/21/ctfhub-no-auth-command-exec.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub‑无验证</a></li>
     <li><a href="/2026/10/21/ctfhub-basic-auth.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub‑基础认证</a></li>
     <li><a href="/2026/10/21/ctfhub-rot13.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub‑回转十三位</a></li>
+    <li><a href="/2026/10/22/ctfhub-htaccess.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑22 · ctfhub‑.htaccess</a></li>
+    <li><a href="/2026/10/22/ctfhub-00-truncate.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑22 · ctfhub‑00截断</a></li>
+    <li><a href="/2026/10/22/ctfhub-double-write-extension.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑22 · ctfhub‑双写后缀</a></li>
+    <li><a href="/2026/10/25/ctfhub-wenjian-baohan.md" style="color:#61b4ff; text-decoration:none;">2026‑10‑25 · ctfhub-文件包含</a></li>
+    <li><a href="/2026/10/25/ctfhub-command-inject.md" style="color:#61b4ff; text-decoration:none;">2026‑10‑25 · ctfhub-命令注入（无过滤）</a></li>
+    <li><a href="/2026/10/25/ctfhub-ssrf-basic.md" style="color:#61b4ff; text-decoration:none;">2026‑10‑25 · ctfhub-SSRF(基础)</a></li>
   </ul>
 </div>
 
