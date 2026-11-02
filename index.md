@@ -78,7 +78,7 @@ permalink: /
     <li><a href="/2026/10/21/ctfhub-cmd-no-check.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑21 · ctfhub-无验证命令执行</a></li>
     <li><a href="/2026/10/19/ctfhub-cookie-sql-inject.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑19 · ctfhub-Cookie注入</a></li>
     <li><a href="/2026/10/28/ctfhub-fileinclude-file.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑28 · ctfhub-伪协议读取文件</a></li>
-    <li><a href="/2026/10/28/ctfhub-fileinclude-file.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑28 · ctfhub-伪协议读取文件</a></li>
+    <li><a href="/2026/11/02/ctfhub-traffic-icmpdata.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑02 · ctfhub-ICMP-Data</a></li>
   </ul>
 </div>
 
