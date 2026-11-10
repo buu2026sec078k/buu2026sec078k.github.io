@@ -79,6 +79,9 @@ permalink: /
     <li><a href="/2026/10/19/ctfhub-cookie-sql-inject.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑19 · ctfhub-Cookie注入</a></li>
     <li><a href="/2026/10/28/ctfhub-fileinclude-file.html" style="color:#61b4ff; text-decoration:none;">2026‑10‑28 · ctfhub-伪协议读取文件</a></li>
     <li><a href="/2026/11/02/ctfhub-traffic-icmpdata.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑02 · ctfhub-ICMP-Data</a></li>
+    <li><a href="/2026/11/10/ctfhub-sql-bool-blind.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-SQL注入-布尔盲注</a></li>
+    <li><a href="/2026/11/10/ctfhub-sql-time-blind.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-SQL注入-时间盲注</a></li>
+    <li><a href="/2026/11/10/ctfhub-sql-error-based.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-SQL注入-报错注入</a></li>
   </ul>
 </div>
 
