@@ -82,6 +82,11 @@ permalink: /
     <li><a href="/2026/11/10/ctfhub-sql-bool-blind.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-SQL注入-布尔盲注</a></li>
     <li><a href="/2026/11/10/ctfhub-sql-time-blind.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-SQL注入-时间盲注</a></li>
     <li><a href="/2026/11/10/ctfhub-sql-error-based.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-SQL注入-报错注入</a></li>
+    <li><a href="/2026/11/10/ctfhub-mystery-file.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-神秘文件（2017赛客夏令营Misc）</a></li>
+    <li><a href="/2026/11/10/ctfhub-morse.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-摩斯电码</a></li>
+    <li><a href="/2026/11/10/ctfhub-sd2016-crypto-reverse.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-算法逆向（2016鲁赛Crypto）</a></li>
+    <li><a href="/2026/11/09/ctfhub-zhalan.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑09 · ctfhub-栅栏密码</a></li>
+    <li><a href="/2026/11/09/ctfhub-traffic-icmplength.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑09 · ctfhub-ICMP-Length</a></li>
   </ul>
 </div>
 
