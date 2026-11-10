@@ -90,6 +90,8 @@ permalink: /
     <li><a href="/2026/11/10/ctfhub-command-filter-cat.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-命令注入-过滤cat</a></li>
     <li><a href="/2026/11/10/ctfhub-command-filter-space.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-命令注入-过滤空格</a></li>
     <li><a href="/2026/11/10/ctfhub-command-filter-slash.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-命令注入-过滤目录分隔符</a></li>
+    <li><a href="/2026/11/10/ctfhub-rce-filter-operator.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-RCE-过滤运算符</a></li>
+    <li><a href="/2026/11/10/ctfhub-command-filter-mix.html" style="color:#61b4ff; text-decoration:none;">2026‑11‑10 · ctfhub-命令注入-综合过滤练习</a></li>
   </ul>
 </div>
 
